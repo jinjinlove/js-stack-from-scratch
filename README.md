@@ -1,8 +1,10 @@
 # 从零开始构建 JavaScript 技术栈
 
-## 关于
+这里是[从零开始构建 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)的中文翻译版本。本教程内容比较浅，适合刚入门的初学者。
 
-这里是[从零开始构建 JavaScript 技术栈](https://github.com/verekia/js-stack-from-scratch)的中文翻译版本。
+作者正在写[第二版](https://github.com/verekia/js-stack-from-scratch)，可以关注。
+
+<br/>
 
 [![Build Status](https://travis-ci.org/pd4d10/js-stack-from-scratch.svg?branch=master)](https://travis-ci.org/pd4d10/js-stack-from-scratch) [![Join the chat at https://gitter.im/js-stack-from-scratch/Lobby](https://badges.gitter.im/js-stack-from-scratch/Lobby.svg)](https://gitter.im/js-stack-from-scratch/Lobby)
 
