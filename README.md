@@ -4,8 +4,6 @@
 
 作者正在写[第二版](https://github.com/verekia/js-stack-from-scratch)，可以关注。
 
-<br/>
-
 [![Build Status](https://travis-ci.org/pd4d10/js-stack-from-scratch.svg?branch=master)](https://travis-ci.org/pd4d10/js-stack-from-scratch) [![Join the chat at https://gitter.im/js-stack-from-scratch/Lobby](https://badges.gitter.im/js-stack-from-scratch/Lobby.svg)](https://gitter.im/js-stack-from-scratch/Lobby)
 
 [![Yarn](/img/yarn.png)](https://yarnpkg.com/)
